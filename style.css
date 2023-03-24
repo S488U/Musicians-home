@@ -42,7 +42,7 @@ a{
     color: #fff;
 }
 .land-screen{
-    background-image: url(/images/landing-screen.jpg);
+    background-image: url(images/landing-screen.jpg);
     font-family: 'The Nautigal', cursive;
     font-size: 30px;
     width: 100%;
